@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Aman 👋</h1>
-  <p>Backend Engineer &nbsp;·&nbsp; .NET & Azure &nbsp;·&nbsp; Auckland, NZ</p>
+  <p>Software Engineer &nbsp;·&nbsp; .NET & Azure &nbsp;·&nbsp; Auckland, NZ</p>
   
   <a href="https://aman-vr.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-aman--vr.vercel.app-amber?style=flat-square&color=f59e0b" />
@@ -13,7 +13,7 @@
 
 ---
 
-I build backend systems and try to leave them better than I found them, for the team, not just the ticket.
+I build systems and try to leave them better than I found them, for the team, not just the ticket.
 
 .NET and Azure are my tools. Clean thinking is the goal.
 
